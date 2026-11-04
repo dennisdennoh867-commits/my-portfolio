@@ -1,2 +1,2 @@
 # my-portfolio
-My first portfolio project created using HTML,CSS and JavaScript
+Personal portfolio showcasing my web development skills and projects.
